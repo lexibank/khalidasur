@@ -1,0 +1,201 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile
+Asuri-1_i-1,,Asuri,1_i,iŋ,iŋ,i ŋ,,khalid2020,,,^ i ŋ $,default
+Asuri-2_thou-1,,Asuri,2_thou,am,am,a m,,khalid2020,,,^ a m $,default
+Asuri-3_heorshe-1,,Asuri,3_heorshe,ae,ae,ae,,khalid2020,,,^ ae $,default
+Asuri-4_weinclusive-1,,Asuri,4_weinclusive,abu,abu,a b u,,khalid2020,,,^ a b u $,default
+Asuri-5_you-1,,Asuri,5_you,am,am,a m,,khalid2020,,,^ a m $,default
+Asuri-6_they-1,,Asuri,6_they,aku,aku,a k u,,khalid2020,,,^ a k u $,default
+Asuri-7_this-1,,Asuri,7_this,niya,niya,n i y a,,khalid2020,,,^ n iya $,default
+Asuri-8_that-1,,Asuri,8_that,hona,hona,h o n a,,khalid2020,,,^ h o n a $,default
+Asuri-9_here-1,,Asuri,9_here,noaʔɽe,noaʔɽe,n oa ʔ ɽ e,,khalid2020,,,^ n oa ʔ ɽ e $,default
+Asuri-10_there-1,,Asuri,10_there,honaʔɽe,honaʔɽe,h o n a ʔ ɽ e,,khalid2020,,,^ h o n a ʔ ɽ e $,default
+Asuri-11_who-1,,Asuri,11_who,oke,oke,o k e,,khalid2020,,,^ o k e $,default
+Asuri-12_what-1,,Asuri,12_what,etan,etan,e t a n,,khalid2020,,,^ e t a n $,default
+Asuri-13_where-1,,Asuri,13_where,okaɽe,okaɽe,o k a ɽ e,,khalid2020,,,^ o k a ɽ e $,default
+Asuri-14_when-1,,Asuri,14_when,okahila,okahila,o k a h i l a,,khalid2020,,,^ o k a h i l a $,default
+Asuri-15_how-1,,Asuri,15_how,etalakan,etalakan,e t a l a k a n,,khalid2020,,,^ e t a l a k a n $,default
+Asuri-16_not-1,,Asuri,16_not,kae,kae,k ae,,khalid2020,,,^ k ae $,default
+Asuri-17_all-1,,Asuri,17_all,jamma,jamma,j a m m a,,khalid2020,,,^ j a m m a $,default
+Asuri-18_many-1,,Asuri,18_many,jameku,jameku,j a m e k u,,khalid2020,,,^ j a m e k u $,default
+Asuri-19_some-1,,Asuri,19_some,kaʈiʔ,kaʈiʔ,k a ʈ i ʔ,,khalid2020,,,^ k a ʈ i ʔ $,default
+Asuri-20_few-1,,Asuri,20_few,tʰoɽe,tʰoɽe,tʰ o ɽ e,,khalid2020,,,^ tʰ o ɽ e $,default
+Asuri-21_one-1,,Asuri,21_one,miyaɖ,miyaɖ,m i y a ɖ,,khalid2020,,,^ m iya ɖ $,default
+Asuri-22_two-1,,Asuri,22_two,bariya,bariya,b a r i y a,,khalid2020,,,^ b a r iya $,default
+Asuri-23_three-1,,Asuri,23_three,peya,peya,p e y a,,khalid2020,,,^ p eya $,default
+Asuri-24_four-1,,Asuri,24_four,cair,cair,c ai r,,khalid2020,,,^ c ai r $,default
+Asuri-25_five-1,,Asuri,25_five,pac,pac,p a c,,khalid2020,,,^ p a c $,default
+Asuri-26_big-1,,Asuri,26_big,baɽe,baɽe,b a ɽ e,,khalid2020,,,^ b a ɽ e $,default
+Asuri-27_long-1,,Asuri,27_long,jiliŋ,jiliŋ,j i l i ŋ,,khalid2020,,,^ j i l i ŋ $,default
+Asuri-28_broadorwide-1,,Asuri,28_broadorwide,cakeɽ,cakeɽ,c a k e ɽ,,khalid2020,,,^ c a k e ɽ $,default
+Asuri-29_thick-1,,Asuri,29_thick,gaɽha,gaɽha,g a ɽʰ a,,khalid2020,,,^ g a ɽh a $,default
+Asuri-30_heavy-1,,Asuri,30_heavy,bojʰ,bojʰ,b o jʰ,,khalid2020,,,^ b o jʰ $,default
+Asuri-31_small-1,,Asuri,31_small,cʰoʈe,cʰoʈe,cʰ o ʈ e,,khalid2020,,,^ cʰ o ʈ e $,default
+Asuri-32_tall-1,,Asuri,32_tall,usul,usul,u s u l,,khalid2020,,,^ u s u l $,default
+Asuri-33_short-1,,Asuri,33_short,ʈʰepre,ʈʰepre,ʈʰ e p r e,,khalid2020,,,^ ʈʰ e p r e $,default
+Asuri-34_narrow-1,,Asuri,34_narrow,sakuɽ,sakuɽ,s a k u ɽ,,khalid2020,,,^ s a k u ɽ $,default
+Asuri-35_thin-1,,Asuri,35_thin,patla,patla,p a t l a,,khalid2020,,,^ p a t l a $,default
+Asuri-36_girl-1,,Asuri,36_girl,kuɽi,kuɽi,k u ɽ i,,khalid2020,,,^ k u ɽ i $,default
+Asuri-37_boy-1,,Asuri,37_boy,koɽɑ,koɽɑ,k o ɽ ɑ,,khalid2020,,,^ k o ɽ ɑ $,default
+Asuri-38_person-1,,Asuri,38_person,hoɽ,hoɽ,h o ɽ,,khalid2020,,,^ h o ɽ $,default
+Asuri-39_child-1,,Asuri,39_child,ceŋa,ceŋa,c e ŋ a,,khalid2020,,,^ c e ŋ a $,default
+Asuri-40_wife-1,,Asuri,40_wife,hoɽaʔ,hoɽaʔ,h o ɽ a ʔ,,khalid2020,,,^ h o ɽ a ʔ $,default
+Asuri-41_husband-1,,Asuri,41_husband,hoɽ,hoɽ,h o ɽ,,khalid2020,,,^ h o ɽ $,default
+Asuri-42_mother-1,,Asuri,42_mother,aya,aya,a y a,,khalid2020,,,^ aya $,default
+Asuri-43_father-1,,Asuri,43_father,baba,baba,b a b a,,khalid2020,,,^ b a b a $,default
+Asuri-44_animal-1,,Asuri,44_animal,janwar,janwar,j a n w a r,,khalid2020,,,^ j a nw a r $,default
+Asuri-45_fish-1,,Asuri,45_fish,haku,haku,h a k u,,khalid2020,,,^ h a k u $,default
+Asuri-46_bird-1,,Asuri,46_bird,oɽe,oɽe,o ɽ e,,khalid2020,,,^ o ɽ e $,default
+Asuri-47_dog-1,,Asuri,47_dog,seta,seta,s e t a,,khalid2020,,,^ s e t a $,default
+Asuri-48_deer-1,,Asuri,48_deer,saram,saram,s a r a m,,khalid2020,,,^ s a r a m $,default
+Asuri-49_rabbit-1,,Asuri,49_rabbit,kulahi,kulahi,k u l a h i,,khalid2020,,,^ k u l a h i $,default
+Asuri-50_goat-1,,Asuri,50_goat,merom,merom,m e r o m,,khalid2020,,,^ m e r o m $,default
+Asuri-51_pig-1,,Asuri,51_pig,sukri,sukri,s u k r i,,khalid2020,,,^ s u k r i $,default
+Asuri-52_headlouse-1,,Asuri,52_headlouse,siku,siku,s i k u,,khalid2020,,,^ s i k u $,default
+Asuri-53_snake-1,,Asuri,53_snake,biŋ,biŋ,b i ŋ,,khalid2020,,,^ b i ŋ $,default
+Asuri-54_tree-1,,Asuri,54_tree,siŋ,siŋ,s i ŋ,,khalid2020,,,^ s i ŋ $,default
+Asuri-55_forest-1,,Asuri,55_forest,buru,buru,b u r u,,khalid2020,,,^ b u r u $,default
+Asuri-56_stick-1,,Asuri,56_stick,hapa,hapa,h a p a,,khalid2020,,,^ h a p a $,default
+Asuri-57_fruit-1,,Asuri,57_fruit,joʔ,joʔ,j o ʔ,,khalid2020,,,^ j o ʔ $,default
+Asuri-58_mango-1,,Asuri,58_mango,ul,ul,u l,,khalid2020,,,^ u l $,default
+Asuri-59_seed-1,,Asuri,59_seed,bihin,bihin,b i h i n,,khalid2020,,,^ b i h i n $,default
+Asuri-60_leaf-1,,Asuri,60_leaf,sekam,sekam,s e k a m,,khalid2020,,,^ s e k a m $,default
+Asuri-61_root-1,,Asuri,61_root,jaiɽ,jaiɽ,j ai ɽ,,khalid2020,,,^ j ai ɽ $,default
+Asuri-62_bark-1,,Asuri,62_bark,bakla,bakla,b a k l a,,khalid2020,,,^ b a k l a $,default
+Asuri-63_flower-1,,Asuri,63_flower,baha,baha,b a h a,,khalid2020,,,^ b a h a $,default
+Asuri-64_grass-1,,Asuri,64_grass,gʰas,gʰas,gʰ a s,,khalid2020,,,^ gʰ a s $,default
+Asuri-65_rope-1,,Asuri,65_rope,bayor,bayor,b a y o r,,khalid2020,,,^ b ayo r $,default
+Asuri-66_skinhuman-1,,Asuri,66_skinhuman,harta,harta,h a r t a,,khalid2020,,,^ h a r t a $,default
+Asuri-67_meat-1,,Asuri,67_meat,sikar,sikar,s i k a r,,khalid2020,,,^ s i k a r $,default
+Asuri-68_blood-1,,Asuri,68_blood,mayom,mayom,m a y o m,,khalid2020,,,^ m ayo m $,default
+Asuri-69_bone-1,,Asuri,69_bone,jaŋ,jaŋ,j a ŋ,,khalid2020,,,^ j a ŋ $,default
+Asuri-70_fatfornourishment-1,,Asuri,70_fatfornourishment,itil,itil,i t i l,,khalid2020,,,^ i t i l $,default
+Asuri-71_egg-1,,Asuri,71_egg,bili,bili,b i l i,,khalid2020,,,^ b i l i $,default
+Asuri-72_hornanatomy-1,,Asuri,72_hornanatomy,diriŋ,diriŋ,d i r i ŋ,,khalid2020,,,^ d i r i ŋ $,default
+Asuri-73_tail-1,,Asuri,73_tail,calom,calom,c a l o m,,khalid2020,,,^ c a l o m $,default
+Asuri-74_hair-1,,Asuri,74_hair,ub,ub,u b,,khalid2020,,,^ u b $,default
+Asuri-75_head-1,,Asuri,75_head,boho,boho,b o h o,,khalid2020,,,^ b o h o $,default
+Asuri-76_ear-1,,Asuri,76_ear,lutur,lutur,l u t u r,,khalid2020,,,^ l u t u r $,default
+Asuri-77_eye-1,,Asuri,77_eye,meɖ,meɖ,m e ɖ,,khalid2020,,,^ m e ɖ $,default
+Asuri-78_nose-1,,Asuri,78_nose,muhu,muhu,m u h u,,khalid2020,,,^ m u h u $,default
+Asuri-79_mouth-1,,Asuri,79_mouth,aha,aha,a h a,,khalid2020,,,^ a h a $,default
+Asuri-80_lip-1,,Asuri,80_lip,lucir,lucir,l u c i r,,khalid2020,,,^ l u c i r $,default
+Asuri-81_tooth-1,,Asuri,81_tooth,ɖaʈa,ɖaʈa,ɖ a ʈ a,,khalid2020,,,^ ɖ a ʈ a $,default
+Asuri-82_tongue-1,,Asuri,82_tongue,alaŋ,alaŋ,a l a ŋ,,khalid2020,,,^ a l a ŋ $,default
+Asuri-83_fingernail-1,,Asuri,83_fingernail,rama,rama,r a m a,,khalid2020,,,^ r a m a $,default
+Asuri-84_leg-1,,Asuri,84_leg,jaŋga,jaŋga,j a ŋ g a,,khalid2020,,,^ j a ŋ g a $,default
+Asuri-85_knee-1,,Asuri,85_knee,mukɽi,mukɽi,m u k ɽ i,,khalid2020,,,^ m u k ɽ i $,default
+Asuri-86_hand-1,,Asuri,86_hand,ti,ti,t i,,khalid2020,,,^ t i $,default
+Asuri-87_wing-1,,Asuri,87_wing,apaɽa,apaɽa,a p a ɽ a,,khalid2020,,,^ a p a ɽ a $,default
+Asuri-88_belly-1,,Asuri,88_belly,lahiʔg,lahiʔg,l a h i ʔ g,,khalid2020,,,^ l a h i ʔ g $,default
+Asuri-89_guts-1,,Asuri,89_guts,poʈa,poʈa,p o ʈ a,,khalid2020,,,^ p o ʈ a $,default
+Asuri-90_neck-1,,Asuri,90_neck,hoʈoʔ,hoʈoʔ,h o ʈ o ʔ,,khalid2020,,,^ h o ʈ o ʔ $,default
+Asuri-91_backdirection-1,,Asuri,91_backdirection,dea,dea,d ea,,khalid2020,,,^ d ea $,default
+Asuri-92_chest-1,,Asuri,92_chest,cʰati,cʰati,cʰ a t i,,khalid2020,,,^ cʰ a t i $,default
+Asuri-93_heart-1,,Asuri,93_heart,iyaʔ,iyaʔ,i y a ʔ,,khalid2020,,,^ iya ʔ $,default
+Asuri-94_liver-1,,Asuri,94_liver,karja,karja,k a r j a,,khalid2020,,,^ k a r j a $,default
+Asuri-95_drink-1,,Asuri,95_drink,nu,nu,n u,,khalid2020,,,^ n u $,default
+Asuri-96_eat-1,,Asuri,96_eat,jom,jom,j o m,,khalid2020,,,^ j o m $,default
+Asuri-97_bite-1,,Asuri,97_bite,hab,hab,h a b,,khalid2020,,,^ h a b $,default
+Asuri-98_suck-1,,Asuri,98_suck,cepeʔg,cepeʔg,c e p e ʔ g,,khalid2020,,,^ c e p e ʔ g $,default
+Asuri-99_spit-1,,Asuri,99_spit,beʔg,beʔg,b e ʔ g,,khalid2020,,,^ b e ʔ g $,default
+Asuri-100_vomit-1,,Asuri,100_vomit,cʰaʈ,cʰaʈ,cʰ a ʈ,,khalid2020,,,^ cʰ a ʈ $,default
+Asuri-101_blowwithmouth-1,,Asuri,101_blowwithmouth,om,om,o m,,khalid2020,,,^ o m $,default
+Asuri-102_breathe-1,,Asuri,102_breathe,sas,sas,s a s,,khalid2020,,,^ s a s $,default
+Asuri-103_laugh-1,,Asuri,103_laugh,landa,landa,l a n d a,,khalid2020,,,^ l a n d a $,default
+Asuri-104_see-1,,Asuri,104_see,nel,nel,n e l,,khalid2020,,,^ n e l $,default
+Asuri-105_listen-1,,Asuri,105_listen,ayum,ayum,a y u m,,khalid2020,,,^ ayu m $,default
+Asuri-106_knowsomething-1,,Asuri,106_knowsomething,paɽi,paɽi,p a ɽ i,,khalid2020,,,^ p a ɽ i $,default
+Asuri-107_think-1,,Asuri,107_think,uihar,uihar,ui h a r,,khalid2020,,,^ ui h a r $,default
+Asuri-108_fearbeafraid-1,,Asuri,108_fearbeafraid,bor,bor,b o r,,khalid2020,,,^ b o r $,default
+Asuri-109_sleep-1,,Asuri,109_sleep,nind,nind,n i n d,,khalid2020,,,^ n i n d $,default
+Asuri-110_dwelllivereside-1,,Asuri,110_dwelllivereside,jiuɖ,jiuɖ,j iu ɖ,,khalid2020,,,^ j iu ɖ $,default
+Asuri-111_die-1,,Asuri,111_die,goeʔg,goeʔg,g oe ʔ g,,khalid2020,,,^ g oe ʔ g $,default
+Asuri-112_fight-1,,Asuri,112_fight,jʰagɽa,jʰagɽa,jʰ a g ɽ a,,khalid2020,,,^ jʰ a g ɽ a $,default
+Asuri-113_hit-1,,Asuri,113_hit,ɖʰesa,ɖʰesa,ɖʰ e s a,,khalid2020,,,^ ɖʰ e s a $,default
+Asuri-114_cut-1,,Asuri,114_cut,geɖ,geɖ,g e ɖ,,khalid2020,,,^ g e ɖ $,default
+Asuri-115_split-1,,Asuri,115_split,rupuɽ,rupuɽ,r u p u ɽ,,khalid2020,,,^ r u p u ɽ $,default
+Asuri-116_stabtodeath-1,,Asuri,116_stabtodeath,jobao,jobao,j o b ao,,khalid2020,,,^ j o b ao $,default
+Asuri-117_scratch-1,,Asuri,117_scratch,godar,godar,g o d a r,,khalid2020,,,^ g o d a r $,default
+Asuri-118_dig-1,,Asuri,118_dig,gotaʔ,gotaʔ,g o t a ʔ,,khalid2020,,,^ g o t a ʔ $,default
+Asuri-119_swim-1,,Asuri,119_swim,paurao,paurao,p au r ao,,khalid2020,,,^ p au r ao $,default
+Asuri-120_flymovethroughair-1,,Asuri,120_flymovethroughair,otaŋ,otaŋ,o t a ŋ,,khalid2020,,,^ o t a ŋ $,default
+Asuri-121_walk-1,,Asuri,121_walk,sen,sen,s e n,,khalid2020,,,^ s e n $,default
+Asuri-122_come-1,,Asuri,122_come,hijoʔ,hijoʔ,h i j o ʔ,,khalid2020,,,^ h i j o ʔ $,default
+Asuri-123_liedown-1,,Asuri,123_liedown,gitiʔg,gitiʔg,g i t i ʔ g,,khalid2020,,,^ g i t i ʔ g $,default
+Asuri-124_sit-1,,Asuri,124_sit,duɽuʔ,duɽuʔ,d u ɽ u ʔ,,khalid2020,,,^ d u ɽ u ʔ $,default
+Asuri-125_turn-1,,Asuri,125_turn,muhaɖ,muhaɖ,m u h a ɖ,,khalid2020,,,^ m u h a ɖ $,default
+Asuri-126_fall-1,,Asuri,126_fall,uyuʔ,uyuʔ,u y u ʔ,,khalid2020,,,^ uyu ʔ $,default
+Asuri-127_catch-1,,Asuri,127_catch,sab,sab,s a b,,khalid2020,,,^ s a b $,default
+Asuri-128_squeeze-1,,Asuri,128_squeeze,cipuɖ,cipuɖ,c i p u ɖ,,khalid2020,,,^ c i p u ɖ $,default
+Asuri-129_wash-1,,Asuri,129_wash,dʰoao,dʰoao,dʰ o a o,,khalid2020,,,^ dʰ oao $,default
+Asuri-130_wipe-1,,Asuri,130_wipe,joʔ,joʔ,j o ʔ,,khalid2020,,,^ j o ʔ $,default
+Asuri-131_push-1,,Asuri,131_push,tukun,tukun,t u k u n,,khalid2020,,,^ t u k u n $,default
+Asuri-132_fasten-1,,Asuri,132_fasten,tol,tol,t o l,,khalid2020,,,^ t o l $,default
+Asuri-133_sew-1,,Asuri,133_sew,roʔ,roʔ,r o ʔ,,khalid2020,,,^ r o ʔ $,default
+Asuri-134_count-1,,Asuri,134_count,lekʰa,lekʰa,l e kʰ a,,khalid2020,,,^ l e kʰ a $,default
+Asuri-135_speak-1,,Asuri,135_speak,kahɽi,kahɽi,k a h ɽ i,,khalid2020,,,^ k a h ɽ i $,default
+Asuri-136_sing-1,,Asuri,136_sing,siriŋ,siriŋ,s i r i ŋ,,khalid2020,,,^ s i r i ŋ $,default
+Asuri-137_play-1,,Asuri,137_play,eneʔg,eneʔg,e n e ʔ g,,khalid2020,,,^ e n e ʔ g $,default
+Asuri-138_float-1,,Asuri,138_float,capi,capi,c a p i,,khalid2020,,,^ c a p i $,default
+Asuri-139_flow-1,,Asuri,139_flow,tu,tu,t u,,khalid2020,,,^ t u $,default
+Asuri-140_freeze-1,,Asuri,140_freeze,jamao,jamao,j a m ao,,khalid2020,,,^ j a m ao $,default
+Asuri-141_swell-1,,Asuri,141_swell,mo,mo,m o,,khalid2020,,,^ m o $,default
+Asuri-142_sun-1,,Asuri,142_sun,din boŋa,din boŋa,d i n + b o ŋ a,,khalid2020,,,^ d i n + b o ŋ a $,default
+Asuri-143_moon-1,,Asuri,143_moon,canu,canu,c a n u,,khalid2020,,,^ c a n u $,default
+Asuri-144_star-1,,Asuri,144_star,ipil,ipil,i p i l,,khalid2020,,,^ i p i l $,default
+Asuri-145_water-1,,Asuri,145_water,daʔ,daʔ,d a ʔ,,khalid2020,,,^ d a ʔ $,default
+Asuri-146_rainprecipitation-1,,Asuri,146_rainprecipitation,barkʰa,barkʰa,b a r kʰ a,,khalid2020,,,^ b a r kʰ a $,default
+Asuri-147_river-1,,Asuri,147_river,nai,nai,n ai,,khalid2020,,,^ n ai $,default
+Asuri-148_pond-1,,Asuri,148_pond,pokʰra,pokʰra,p o kʰ r a,,khalid2020,,,^ p o kʰ r a $,default
+Asuri-149_salt-1,,Asuri,149_salt,buluŋ,buluŋ,b u l u ŋ,,khalid2020,,,^ b u l u ŋ $,default
+Asuri-150_stoneorrock-1,,Asuri,150_stoneorrock,ʈuku,ʈuku,ʈ u k u,,khalid2020,,,^ ʈ u k u $,default
+Asuri-151_sand-1,,Asuri,151_sand,bitil,bitil,b i t i l,,khalid2020,,,^ b i t i l $,default
+Asuri-152_dust-1,,Asuri,152_dust,dʰuɽi,dʰuɽi,dʰ u ɽ i,,khalid2020,,,^ dʰ u ɽ i $,default
+Asuri-153_ground-1,,Asuri,153_ground,ot,ot,o t,,khalid2020,,,^ o t $,default
+Asuri-154_stormclouds-1,,Asuri,154_stormclouds,badri,badri,b a d r i,,khalid2020,,,^ b a d r i $,default
+Asuri-155_fog-1,,Asuri,155_fog,dhʰudʰ,dhʰudʰ,dʰ u dʰ,,khalid2020,,,^ dhʰ u dʰ $,default
+Asuri-156_wind-1,,Asuri,156_wind,hoe,hoe,h oe,,khalid2020,,,^ h oe $,default
+Asuri-157_ice-1,,Asuri,157_ice,rataŋ,rataŋ,r a t a ŋ,,khalid2020,,,^ r a t a ŋ $,default
+Asuri-158_smokeexhaust-1,,Asuri,158_smokeexhaust,sukul,sukul,s u k u l,,khalid2020,,,^ s u k u l $,default
+Asuri-159_fire-1,,Asuri,159_fire,seŋgel,seŋgel,s e ŋ g e l,,khalid2020,,,^ s e ŋ g e l $,default
+Asuri-160_ash-1,,Asuri,160_ash,toreʔg,toreʔg,t o r e ʔ g,,khalid2020,,,^ t o r e ʔ g $,default
+Asuri-161_burn-1,,Asuri,161_burn,jul,jul,j u l,,khalid2020,,,^ j u l $,default
+Asuri-162_pathorroad-1,,Asuri,162_pathorroad,hora,hora,h o r a,,khalid2020,,,^ h o r a $,default
+Asuri-163_mountainorhill-1,,Asuri,163_mountainorhill,buru,buru,b u r u,,khalid2020,,,^ b u r u $,default
+Asuri-164_red-1,,Asuri,164_red,lal,lal,l a l,,khalid2020,,,^ l a l $,default
+Asuri-165_green-1,,Asuri,165_green,hariar,hariar,h a r ia r,,khalid2020,,,^ h a r ia r $,default
+Asuri-166_yellow-1,,Asuri,166_yellow,sasaŋ,sasaŋ,s a s a ŋ,,khalid2020,,,^ s a s a ŋ $,default
+Asuri-167_white-1,,Asuri,167_white,puɽi,puɽi,p u ɽ i,,khalid2020,,,^ p u ɽ i $,default
+Asuri-168_black-1,,Asuri,168_black,kaɽia,kaɽia,k a ɽ ia,,khalid2020,,,^ k a ɽ ia $,default
+Asuri-169_night-1,,Asuri,169_night,nida,nida,n i d a,,khalid2020,,,^ n i d a $,default
+Asuri-170_day24hours-1,,Asuri,170_day24hours,din,din,d i n,,khalid2020,,,^ d i n $,default
+Asuri-171_year-1,,Asuri,171_year,sal,sal,s a l,,khalid2020,,,^ s a l $,default
+Asuri-172_today-1,,Asuri,172_today,tisiŋ,tisiŋ,t i s i ŋ,,khalid2020,,,^ t i s i ŋ $,default
+Asuri-173_tomorrow-1,,Asuri,173_tomorrow,gapa,gapa,g a p a,,khalid2020,,,^ g a p a $,default
+Asuri-174_yesterday-1,,Asuri,174_yesterday,hola,hola,h o l a,,khalid2020,,,^ h o l a $,default
+Asuri-175_hotorwarm-1,,Asuri,175_hotorwarm,lolo,lolo,l o l o,,khalid2020,,,^ l o l o $,default
+Asuri-176_coldofweather-1,,Asuri,176_coldofweather,tʰaɽ,tʰaɽ,tʰ a ɽ,,khalid2020,,,^ tʰ a ɽ $,default
+Asuri-177_full-1,,Asuri,177_full,pereʔg,pereʔg,p e r e ʔ g,,khalid2020,,,^ p e r e ʔ g $,default
+Asuri-178_new-1,,Asuri,178_new,nawa,nawa,n a w a,,khalid2020,,,^ n a w a $,default
+Asuri-179_old-1,,Asuri,179_old,mari,mari,m a r i,,khalid2020,,,^ m a r i $,default
+Asuri-180_good-1,,Asuri,180_good,baɽʰiya,baɽʰiya,b a ɽʰ i y a,,khalid2020,,,^ b a ɽʰ iya $,default
+Asuri-181_bad-1,,Asuri,181_bad,kʰarab,kʰarab,kʰ a r a b,,khalid2020,,,^ kʰ a r a b $,default
+Asuri-182_rotten-1,,Asuri,182_rotten,sia,sia,s ia,,khalid2020,,,^ s ia $,default
+Asuri-183_dirty-1,,Asuri,183_dirty,gadus,gadus,g a d u s,,khalid2020,,,^ g a d u s $,default
+Asuri-184_straight-1,,Asuri,184_straight,sojʰ,sojʰ,s o jʰ,,khalid2020,,,^ s o jʰ $,default
+Asuri-185_sphericalroundinthreedimensions-1,,Asuri,185_sphericalroundinthreedimensions,gutaɽ,gutaɽ,g u t a ɽ,,khalid2020,,,^ g u t a ɽ $,default
+Asuri-186_square-1,,Asuri,186_square,caukuʈ,caukuʈ,c au k u ʈ,,khalid2020,,,^ c au k u ʈ $,default
+Asuri-187_sharp-1,,Asuri,187_sharp,dʰar,dʰar,dʰ a r,,khalid2020,,,^ dʰ a r $,default
+Asuri-188_blunt-1,,Asuri,188_blunt,bokʰa,bokʰa,b o kʰ a,,khalid2020,,,^ b o kʰ a $,default
+Asuri-189_wet-1,,Asuri,189_wet,lepa,lepa,l e p a,,khalid2020,,,^ l e p a $,default
+Asuri-190_dry-1,,Asuri,190_dry,rohoɽ,rohoɽ,r o h o ɽ,,khalid2020,,,^ r o h o ɽ $,default
+Asuri-191_correctright-1,,Asuri,191_correctright,tʰik,tʰik,tʰ i k,,khalid2020,,,^ tʰ i k $,default
+Asuri-192_near-1,,Asuri,192_near,hinaɖ,hinaɖ,h i n a ɖ,,khalid2020,,,^ h i n a ɖ $,default
+Asuri-193_far-1,,Asuri,193_far,laŋka,laŋka,l a ŋ k a,,khalid2020,,,^ l a ŋ k a $,default
+Asuri-194_right-1,,Asuri,194_right,jom,jom,j o m,,khalid2020,,,^ j o m $,default
+Asuri-195_left-1,,Asuri,195_left,peŋka,peŋka,p e ŋ k a,,khalid2020,,,^ p e ŋ k a $,default
+Asuri-196_at-1,,Asuri,196_at,re,re,r e,,khalid2020,,,^ r e $,default
+Asuri-197_in-1,,Asuri,197_in,re,re,r e,,khalid2020,,,^ r e $,default
+Asuri-198_with-1,,Asuri,198_with,lo,lo,l o,,khalid2020,,,^ l o $,default
+Asuri-199_and-1,,Asuri,199_and,hetra,hetra,h e t r a,,khalid2020,,,^ h e t r a $,default
+Asuri-200_name-1,,Asuri,200_name,numu,numu,n u m u,,khalid2020,,,^ n u m u $,default

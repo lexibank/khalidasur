@@ -1,0 +1,20 @@
+{
+    "title": "CLDF dataset derived from Khalid, Zoya's \"A Grammatical Sketch of Asur: A North Munda language\" from 2020",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Zoya Khalid. 2020. A Grammatical Sketch of Asur: A North Munda language. In Proceedings of the 17th International Conference on Natural Language Processing (ICON), pages 40\u201349, Indian Institute of Technology Patna, Patna, India. NLP Association of India (NLPAI).</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

@@ -1,0 +1,201 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Gloss,Number
+1_i,I,1209,I,,1
+2_thou,you (singular),1215,THOU,,2
+3_heorshe,he,2642,HE OR SHE,,3
+4_weinclusive,we,1131,WE (INCLUSIVE),,4
+5_you,you (plural),1213,YOU,,5
+6_they,they,817,THEY,,6
+7_this,this,1214,THIS,,7
+8_that,that,78,THAT,,8
+9_here,here,136,HERE,,9
+10_there,there,1937,THERE,,10
+11_who,who,1235,WHO,,11
+12_what,what,1236,WHAT,,12
+13_where,where,1237,WHERE,,13
+14_when,when,1238,WHEN,,14
+15_how,how,1239,HOW,,15
+16_not,not,1240,NOT,,16
+17_all,all,98,ALL,,17
+18_many,many,1198,MANY,,18
+19_some,some,1241,SOME,,19
+20_few,few,1242,FEW,,20
+21_one,one,1493,ONE,,21
+22_two,two,1498,TWO,,22
+23_three,three,492,THREE,,23
+24_four,four,1500,FOUR,,24
+25_five,five,493,FIVE,,25
+26_big,big,1202,BIG,,26
+27_long,long,1203,LONG,,27
+28_broadorwide,wide,2652,BROAD OR WIDE,,28
+29_thick,thick,1244,THICK,,29
+30_heavy,heavy,1210,HEAVY,,30
+31_small,small,1246,SMALL,,31
+32_tall,tall,711,TALL,,32
+33_short,short,1645,SHORT,,33
+34_narrow,narrow,1267,NARROW,,34
+35_thin,thin,2308,THIN,,35
+36_girl,girl,1646,GIRL,,36
+37_boy,boy,1366,BOY,,37
+38_person,man (human being),683,PERSON,,38
+39_child,child,2099,CHILD,,39
+40_wife,wife,1199,WIFE,,40
+41_husband,husband,1200,HUSBAND,,41
+42_mother,mother,1216,MOTHER,,42
+43_father,father,1217,FATHER,,43
+44_animal,animal,619,ANIMAL,,44
+45_fish,fish,227,FISH,,45
+46_bird,bird,937,BIRD,,46
+47_dog,dog,2009,DOG,,47
+48_deer,deer,1936,DEER,,48
+49_rabbit,rabbit,1136,RABBIT,,49
+50_goat,goat,1502,GOAT,,50
+51_pig,pig,1337,PIG,,51
+52_headlouse,louse,310,HEAD LOUSE,,52
+53_snake,snake,730,SNAKE,,53
+54_tree,tree,906,TREE,,54
+55_forest,forest,420,FOREST,,55
+56_stick,stick,1295,STICK,,56
+57_fruit,fruit,1507,FRUIT,,57
+58_mango,mango,2398,MANGO,,58
+59_seed,seed,714,SEED,,59
+60_leaf,leaf,628,LEAF,,60
+61_root,root,670,ROOT,,61
+62_bark,bark (of a tree),1204,BARK,,62
+63_flower,flower,239,FLOWER,,63
+64_grass,grass,606,GRASS,,64
+65_rope,rope,1218,ROPE,,65
+66_skinhuman,skin,2613,SKIN (HUMAN),,66
+67_meat,meat,634,MEAT,,67
+68_blood,blood,946,BLOOD,,68
+69_bone,bone,1394,BONE,,69
+70_fatfornourishment,fat (noun),2095,FAT (FOR NOURISHMENT),,70
+71_egg,egg,744,EGG,,71
+72_hornanatomy,horn,1393,HORN (ANATOMY),,72
+73_tail,tail,1220,TAIL,,73
+74_hair,hair,1040,HAIR,,74
+75_head,head,1256,HEAD,,75
+76_ear,ear,1247,EAR,,76
+77_eye,eye,1248,EYE,,77
+78_nose,nose,1221,NOSE,,78
+79_mouth,mouth,674,MOUTH,,79
+80_lip,lips,478,LIP,,80
+81_tooth,tooth,1380,TOOTH,,81
+82_tongue,tongue (organ),1205,TONGUE,,82
+83_fingernail,fingernail,1258,FINGERNAIL,,83
+84_leg,leg,1297,LEG,,84
+85_knee,knee,1371,KNEE,,85
+86_hand,hand,1277,HAND,,86
+87_wing,wing,1257,WING,,87
+88_belly,belly,1251,BELLY,,88
+89_guts,guts,1334,GUTS,,89
+90_neck,neck,1333,NECK,,90
+91_backdirection,back,2910,BACK (DIRECTION),,91
+92_chest,breast,1592,CHEST,,92
+93_heart,heart,1223,HEART,,93
+94_liver,liver,1224,LIVER,,94
+95_drink,to drink,1401,DRINK,,95
+96_eat,to eat,1336,EAT,,96
+97_bite,to bite,1403,BITE,,97
+98_suck,to suck,1421,SUCK,,98
+99_spit,to spit,1440,SPIT,,99
+100_vomit,to vomit,1278,VOMIT,,100
+101_blowwithmouth,to blow,176,BLOW (WITH MOUTH),,101
+102_breathe,to breathe,1407,BREATHE,,102
+103_laugh,to laugh,1355,LAUGH,,103
+104_see,to see,1409,SEE,,104
+105_listen,to hear,1608,LISTEN,,105
+106_knowsomething,to know,1410,KNOW (SOMETHING),,106
+107_think,to think,2271,THINK,,107
+108_fearbeafraid,to fear,1419,FEAR (BE AFRAID),,108
+109_sleep,to sleep,1585,SLEEP,,109
+110_dwelllivereside,to live,363,"DWELL (LIVE, RESIDE)",,110
+111_die,to die,1494,DIE,,111
+112_fight,to fight,1423,FIGHT,,112
+113_hit,to hit,1433,HIT,,113
+114_cut,to cut,1432,CUT,,114
+115_split,to split,1437,SPLIT,,115
+116_stabtodeath,to stab,3189,STAB TO DEATH,,116
+117_scratch,to scratch,1436,SCRATCH,,117
+118_dig,to dig,1418,DIG,,118
+119_swim,to swim,1439,SWIM,,119
+120_flymovethroughair,to fly,1441,FLY (MOVE THROUGH AIR),,120
+121_walk,to walk,1443,WALK,,121
+122_come,to come,1446,COME,,122
+123_liedown,to lie (as in a bed),215,LIE DOWN,,123
+124_sit,to sit,1416,SIT,,124
+125_turn,to turn (intransitive),1588,TURN,,125
+126_fall,to fall,1280,FALL,,126
+127_catch,to catch,702,CATCH,,127
+128_squeeze,to squeeze,1414,SQUEEZE,,128
+129_wash,to wash,1453,WASH,,129
+130_wipe,to wipe,1454,WIPE,,130
+131_push,to push,1452,PUSH,,131
+132_fasten,to tie,1094,FASTEN,,132
+133_sew,to sew,1457,SEW,,133
+134_count,to count,1420,COUNT,,134
+135_speak,to say,1623,SPEAK,,135
+136_sing,to sing,1261,SING,,136
+137_play,to play,1413,PLAY,,137
+138_float,to float,1574,FLOAT,,138
+139_flow,to flow,2003,FLOW,,139
+140_freeze,to freeze,1431,FREEZE,,140
+141_swell,to swell,1573,SWELL,,141
+142_sun,sun,1343,SUN,,142
+143_moon,moon,1313,MOON,,143
+144_star,star,1430,STAR,,144
+145_water,water,948,WATER,,145
+146_rainprecipitation,rain,658,RAIN (PRECIPITATION),,146
+147_river,river,666,RIVER,,147
+148_pond,pond,2035,POND,,148
+149_salt,salt,1274,SALT,,149
+150_stoneorrock,stone,2125,STONE OR ROCK,,150
+151_sand,sand,671,SAND,,151
+152_dust,dust,2,DUST,,152
+153_ground,earth,2159,GROUND,,153
+154_stormclouds,cloud,448,STORM CLOUDS,,154
+155_fog,fog,249,FOG,,155
+156_wind,wind,960,WIND,,156
+157_ice,ice,617,ICE,,157
+158_smokeexhaust,smoke,778,SMOKE (EXHAUST),,158
+159_fire,fire,221,FIRE,,159
+160_ash,ash,646,ASH,,160
+161_burn,to burn,2102,BURN,,161
+162_pathorroad,road/path,2457,PATH OR ROAD,,162
+163_mountainorhill,mountain/hill,2118,MOUNTAIN OR HILL,,163
+164_red,red,156,RED,,164
+165_green,green,1425,GREEN,,165
+166_yellow,yellow,1424,YELLOW,,166
+167_white,white,1335,WHITE,,167
+168_black,black,163,BLACK,,168
+169_night,night,1233,NIGHT,,169
+170_day24hours,day,1260,DAY (24 HOURS),,170
+171_year,year,1226,YEAR,,171
+172_today,today,1283,TODAY,,172
+173_tomorrow,tomorrow,1329,TOMORROW,,173
+174_yesterday,yesterday,1174,YESTERDAY,,174
+175_hotorwarm,warm,2272,HOT OR WARM,,175
+176_coldofweather,cold,2483,COLD (OF WEATHER),,176
+177_full,full,1429,FULL,,177
+178_new,new,1231,NEW,,178
+179_old,old,1229,OLD,,179
+180_good,good,1035,GOOD,,180
+181_bad,bad,1292,BAD,,181
+182_rotten,rotten,1728,ROTTEN,,182
+183_dirty,dirty,1230,DIRTY,,183
+184_straight,straight,1404,STRAIGHT,,184
+185_sphericalroundinthreedimensions,round,2303,SPHERICAL (ROUND IN THREE DIMENSIONS),,185
+186_square,square,850,SQUARE,,186
+187_sharp,sharp (as a knife),1396,SHARP,,187
+188_blunt,dull (as a knife),379,BLUNT,,188
+189_wet,wet,1726,WET,,189
+190_dry,dry,1398,DRY,,190
+191_correctright,correct,1725,CORRECT (RIGHT),,191
+192_near,near,1942,NEAR,,192
+193_far,far,1406,FAR,,193
+194_right,right,1019,RIGHT,,194
+195_left,left,244,LEFT,,195
+196_at,at,1461,AT,,196
+197_in,in,1460,IN,,197
+198_with,with,1340,WITH,,198
+199_and,and,1577,AND,,199
+200_name,name,1405,NAME,,200

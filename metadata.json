@@ -1,0 +1,8 @@
+{
+    "id": "khalidasur",
+    "title": "CLDF dataset derived from Khalid, Zoya's \"A Grammatical Sketch of Asur: A North Munda language\" from 2020",
+    "license": "CC-BY-4.0",
+    "url": "https://aclanthology.org/2020.icon-main.6/",
+    "citation": "Zoya Khalid. 2020. A Grammatical Sketch of Asur: A North Munda language. In Proceedings of the 17th International Conference on Natural Language Processing (ICON), pages 40–49, Indian Institute of Technology Patna, Patna, India. NLP Association of India (NLPAI).",
+    "conceptlist": "Khalid-2020-200"
+}

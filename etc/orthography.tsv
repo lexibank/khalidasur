@@ -1,0 +1,57 @@
+Grapheme	IPA	Frequence	Codepoints
+a	a	124	U+0061
+i	i	50	U+0069
+u	u	49	U+0075
+o	o	47	U+006f
+r	r	40	U+0072
+e	e	39	U+0065
+l	l	34	U+006c
+k	k	30	U+006b
+b	b	29	U+0062
+h	h	29	U+0068
+ɽ	ɽ	27	U+027d
+m	m	26	U+006d
+s	s	25	U+0073
+n	n	23	U+006e
+ʔ	ʔ	22	U+0294
+t	t	22	U+0074
+p	p	20	U+0070
+g	g	20	U+0067
+ŋ	ŋ	19	U+014b
+j	j	17	U+006a
+d	d	12	U+0064
+c	c	11	U+0063
+ʈ	ʈ	8	U+0288
+ɖ	ɖ	8	U+0256
+iya	i y a	5	U+0069 U+0079 U+0061
+kʰ	kʰ	5	U+006b U+02b0
+dʰ	dʰ	4	U+0064 U+02b0
+tʰ	tʰ	3	U+0074 U+02b0
+ai	ai	3	U+0061 U+0069
+jʰ	jʰ	3	U+006a U+02b0
+cʰ	cʰ	3	U+0063 U+02b0
+ao	ao	3	U+0061 U+006f
+ia	ia	3	U+0069 U+0061
+ae	ae	2	U+0061 U+0065
+ayo	a y o	2	U+0061 U+0079 U+006f
+oe	oe	2	U+006f U+0065
+au	au	2	U+0061 U+0075
+oa	oa	1	U+006f U+0061
+eya	e y a	1	U+0065 U+0079 U+0061
+ɽh	ɽʰ	1	U+027d U+02b0
+ʈʰ	ʈʰ	1	U+0288 U+02b0
+ɑ	ɑ	1	U+0251
+aya	a y a	1	U+0061 U+0079 U+0061
+nw	n w	1	U+006e U+0077
+gʰ	gʰ	1	U+0067 U+02b0
+ea	ea	1	U+0065 U+0061
+ayu	a y u	1	U+0061 U+0079 U+0075
+ui	ui	1	U+0075 U+0069
+iu	iu	1	U+0069 U+0075
+ɖʰ	ɖʰ	1	U+0256 U+02b0
+uyu	u y u	1	U+0075 U+0079 U+0075
+oao	o a o	1	U+006f U+0061 U+006f
+_	_	1	U+005f
+dhʰ	dʰ	1	U+0064 U+0068 U+02b0
+w	w	1	U+0077
+ɽʰ	ɽʰ	1	U+027d U+02b0
